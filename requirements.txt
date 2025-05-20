@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-groq
+langchain-experimental
+beautifulsoup4
+requests
+neo4j
+openai
